@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+
+### As a highly skilled Data Scientist with over three years of expertise in Deep Learning and Artificial Intelligence, I have a proven track record of developing and implementing cutting-edge deep learning models across various applications. My experience encompasses not only the technical aspects but also the innovative application of these models to solve complex real-world problems.
+
+🔭 I’m currently working on Creating efficient image detection models using TensorFlow.
+🌱 I'm currently advancing my expertise in deep learning technologies.
+💬 Ask me about AI
+📫 How to reach me: sharique098@gmail.com | [LinkedIn](https://www.linkedin.com/in/sharique-ansari/)
 
 <!--
 **sharique-ansari/sharique-ansari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
